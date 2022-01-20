@@ -1,0 +1,11 @@
+{ 
+"name": "GameAcademy",
+"website": "https://gameacademy.dog/",
+"description": "¡¶Game Academy¡· is a 2D game that integrates IQ, reasoning, leisure and social interaction, and NFT. It has rich board game methods, ultra-fast online matching, thoughtful and new teaching, and a lot of player benefits. Bring an excellent game experience, and more social systems such as gangs, wars, marriage, friends, pets, cars, weapons, etc., to create your own game academy! ",
+"explorer": "https://bscscan.com/token/0x1cd528f5A6E6A53e5D2cE154Dfc40EaA5aFB4856",
+"type": "BEP20",
+"symbol": "GC",
+"decimals": 18,
+"status": "active",
+"id": "0x1cd528f5A6E6A53e5D2cE154Dfc40EaA5aFB4856"
+}
